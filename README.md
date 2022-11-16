@@ -32,3 +32,4 @@
 13 - Pinos de voltagem e terra
 
 14 - Entradas analógicas
+
